@@ -1,0 +1,10 @@
+fastapi
+unicorn
+pandas
+numpy 
+scikit-learn
+mlflow 
+pytest 
+ruff 
+mypy
+evidently 
